@@ -749,7 +749,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Ramees vk" />
                     <br />
                     <sub>
-                        <b>J koushalyashree.</b>
+                        <b>Koushalyashree</b>
                     </sub>
                 </a>
             </td>
